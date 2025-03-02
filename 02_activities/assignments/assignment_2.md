@@ -9,8 +9,22 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+      
+    **My Good Good data visualization example:** "Globalization Tempreture Trends Over the Lasr Centry" (Source: https://public.tableau.com/app/profile/benson.nderitu5640/viz/GlobalTemperatureTrendsOverTime/Dashboard1)
+
+    **Why it is good:**
+        
+    This visualization effectively communicates the rise in global temperatures over the past century using a line chart. The x-axis represents time (years), while the y-axis represents temperature anomalies (deviation from the average). The chart is clean, with a clear title, labeled axes, and a legend explaining the data source. The color gradient (blue to red) intuitively represents cooler to warmer temperatures, making it easy to interpret. The visualization also includes a trendline, which highlights the overall upward trajectory of global temperatures. This aligns with principles of good data visualization, such as clarity, accuracy, and simplicity, as discussed in Tufte's The Visual Display of Quantitative Information. The chart avoids clutter and focuses on the key message: the steady increase in global temperatures.
+
+    **How it could be improved:**
+
+    While the visualization is strong, it could be enhanced by adding annotations for significant events (e.g., industrial milestones or policy changes) that may have influenced temperature trends. This would provide additional context and make the visualization more informative. Additionally, interactive elements, such as tooltips showing exact temperature values for specific years, could improve user engagement and understanding.
+
+    =========================================================================================================================================================================
+
+    **My bad data disualization example:** 
+
+    
 
 
 
@@ -18,7 +32,9 @@
 
 
 
-      ```
+
+
+    
     - How could this data visualization have been improved?  
       ```
       Your answer...
