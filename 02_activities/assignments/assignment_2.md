@@ -23,7 +23,7 @@
     =========================================================================================================================================================================
 
     **My bad data disualization example: The Books That Shaped My Year**  (Source: https://public.tableau.com/app/profile/andy.kriebel/viz/TheBooksThatShapedMy2024/Reading)
-
+![My bad visualization sample](Book-Reading.png)
 **Aesthetic Issues:**
 
 - [Chartjunk:](https://en.wikipedia.org/wiki/Chartjunk#:~:text=Chartjunk%20consists%20of%20all%20visual,a%20chart%20containing%20gratuitous%20chartjunk.) The visualization contains unnecessary decorative elements that do not contribute to data understanding, such as excessive use of colors and backgrounds. This aligns with the concept of "chartjunk," which refers to unnecessary visual clutter that distracts from the data. 
