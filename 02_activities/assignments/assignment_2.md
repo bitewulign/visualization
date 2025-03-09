@@ -12,7 +12,7 @@
       
     **My Good Good data visualization example:** "Globalization Tempreture Trends Over the Lasr Centry" (Source: https://public.tableau.com/app/profile/benson.nderitu5640/viz/GlobalTemperatureTrendsOverTime/Dashboard1)
 
-    ![My good visualization sample](Dashboard 1.png)
+    ![My good visualization sample](Dashboard-1.png)
 
     **Why it is good:**
         
