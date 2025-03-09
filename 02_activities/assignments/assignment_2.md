@@ -22,22 +22,24 @@
 
     =========================================================================================================================================================================
 
-    **My bad data disualization example:** 
+    **My bad data disualization example: The Books That Shaped My Year**  (Source: https://public.tableau.com/app/profile/andy.kriebel/viz/TheBooksThatShapedMy2024/Reading)
 
-    
+**Aesthetic Issues:**
 
+- [Chartjunk:](https://en.wikipedia.org/wiki/Chartjunk#:~:text=Chartjunk%20consists%20of%20all%20visual,a%20chart%20containing%20gratuitous%20chartjunk.) The visualization contains unnecessary decorative elements that do not contribute to data understanding, such as excessive use of colors and backgrounds. This aligns with the concept of "chartjunk," which refers to unnecessary visual clutter that distracts from the data. 
 
+**Substantive Issues:**
 
+- **Lack of Context:** The visualization fails to provide adequate context, such as explanations of metrics or data sources, making it difficult to interpret the significance of the information presented.
+- **Missing Insights:** If the visualization simply lists books without highlighting patterns (e.g., genres, reading frequency, or themes), it may not provide any meaningful insights.
+- **Irrelevant Data:** If the visualization includes metrics that are not relevant to the story (e.g., page counts without context), it can dilute the message.
 
+**Perceptual Issues:**
+- [Misleading Visual Elements:](https://en.wikipedia.org/wiki/Misleading_graph?utm_source=chatgpt.com) The use of 3D effects and disproportionate scaling can distort data perception, leading to misinterpretation. Such practices are known to create misleading graphs by exaggerating or minimizing apparent differences. 
 
-
-
-
-
-
-
-
-
+```
+In summary, the visualization's aesthetic clutter, lack of substantive context, and perceptual distortions hinder its effectiveness in conveying information clearly and accurately.
+```
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
