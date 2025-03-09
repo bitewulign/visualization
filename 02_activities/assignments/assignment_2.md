@@ -12,6 +12,8 @@
       
     **My Good Good data visualization example:** "Globalization Tempreture Trends Over the Lasr Centry" (Source: https://public.tableau.com/app/profile/benson.nderitu5640/viz/GlobalTemperatureTrendsOverTime/Dashboard1)
 
+    ![My good visualization sample](Dashboard 1.png)
+
     **Why it is good:**
         
     This visualization effectively communicates the rise in global temperatures over the past century using a line chart. The x-axis represents time (years), while the y-axis represents temperature anomalies (deviation from the average). The chart is clean, with a clear title, labeled axes, and a legend explaining the data source. The color gradient (blue to red) intuitively represents cooler to warmer temperatures, making it easy to interpret. The visualization also includes a trendline, which highlights the overall upward trajectory of global temperatures. This aligns with principles of good data visualization, such as clarity, accuracy, and simplicity, as discussed in Tufte's The Visual Display of Quantitative Information. The chart avoids clutter and focuses on the key message: the steady increase in global temperatures.
