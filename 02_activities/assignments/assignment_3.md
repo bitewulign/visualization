@@ -9,6 +9,7 @@
 - For each visualization, describe and justify: 
 📊 **Visualization 1: Pie Chart (Python with Matplotlib)**
 ![Visualization 1]('images/visualization_1_pie_chart.png')
+[codes](visualization_1_python.ipynb)
     > What software did you use to create your data visualization?
     ✅ **Software used:**  For the first visualization, I used Python with the Matplotlib library. 
 
