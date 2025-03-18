@@ -167,10 +167,10 @@ I excluded other metrics, such as daily doses administered, as they may create n
 
 ✅ **Final thoughts:**
 
-The line chart effectively communicates the progress of COVID-19 vaccinations in Ontario over time. It highlights the rapid rollout in early 2021 and the eventual plateau, offering valuable insights for public health officials and the general public.
+> The line chart effectively communicates the progress of COVID-19 vaccinations in Ontario over time. It highlights the rapid rollout in early 2021 and the eventual plateau, offering valuable insights for public health officials and the general public.
 
-- This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
-- Total word count should not exceed **(as a maximum) 1000 words** 
+This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
+Total word count should not exceed **(as a maximum) 1000 words** 
  
 ### Why am I doing this assignment?:  
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
