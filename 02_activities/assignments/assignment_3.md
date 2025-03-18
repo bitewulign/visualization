@@ -14,59 +14,61 @@
 
     > What software did you use to create your data visualization?
 
-    ✅ **Software used:**  For the first visualization, I used Python with the Matplotlib library. 
+✅ **Software used:**  For the first visualization, I used Python with the Matplotlib library. 
 
     > Who is your intended audience? 
 
-    👥 **Intended audience:** The intended audience includes public health officials, policymakers, and people interested in understanding the distribution of COVID-19 vaccine doses in Ontario, Canada.
+👥 **Intended audience:** The intended audience includes public health officials, policymakers, and people interested in understanding the distribution of COVID-19 vaccine doses in Ontario, Canada.
 
     > What information or message are you trying to convey with your visualization? 
 
-    💡 **Information/message conveyed:**  \n The pie chart visualizes the proportion of individuals at different vaccination stages:
+💡 **Information/message conveyed:**  \n The pie chart visualizes the proportion of individuals at different vaccination stages:
 
-            - At least one dose
-            - Partially vaccinated
-            - Fully vaccinated
-            - Third dose 
+- At least one dose
+- Partially vaccinated
+- Fully vaccinated
+- Third dose 
 
-    The goal is to highlight the distribution of vaccine coverage and emphasize the share of individuals who have received full vaccination versus only partial coverage.
+The goal is to highlight the distribution of vaccine coverage and emphasize the share of individuals who have received full vaccination versus only partial coverage.
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
 
-    🎨 **Design principles considered:**
+🎨 **Design principles considered:**
 
-        **1. Substantive principle:** The chart uses actual vaccination data from Ontario to accurately reflect the distribution.
-        **2. Perceptual principle:** I chose **distinct colors** for each category to make the chart easily interpretable. The use of percentages provides a clear view of the proportions.
-        **3. Aesthetic principle:** The pie chart uses **clean, labeled segments** with an appropriate color scheme to ensure visual appeal and readability.
+**1. Substantive principle:** The chart uses actual vaccination data from Ontario to accurately reflect the distribution.
+**2. Perceptual principle:** I chose **distinct colors** for each category to make the chart easily interpretable. The use of percentages provides a clear view of the proportions.
+**3. Aesthetic principle:** The pie chart uses **clean, labeled segments** with an appropriate color scheme to ensure visual appeal and readability.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     
-    🔁 **Reproducibility:**
-         Since the chart was created in Python, it is fully reproducible by running the same code on any system with the required libraries installed. The code ensures consistency, allowing others to replicate or modify the visualization.
+🔁 **Reproducibility:**
+Since the chart was created in Python, it is fully reproducible by running the same code on any system with the required libraries installed. The code ensures consistency, allowing others to replicate or modify the visualization.
     
     > How did you ensure that your data visualization is accessible?  
 
-    🌍 **Accessibility:**
-        To enhance accessibility, the chart uses clear labels and color differentiation. However, it could be improved by including a legend with textual descriptions for color-blind users or using patterns instead of colors.
+🌍 **Accessibility:**
+
+To enhance accessibility, the chart uses clear labels and color differentiation. However, it could be improved by including a legend with textual descriptions for color-blind users or using patterns instead of colors.
 
     > Who are the individuals and communities who might be impacted by your visualization?  
 
-    👥 **Impacted individuals and communities:**
+👥 **Impacted individuals and communities:**
 
-        Public health experts can use this visualization to track vaccination coverage and identify gaps. General peope can better understand vaccine distribution and coverage rates.
+Public health experts can use this visualization to track vaccination coverage and identify gaps. General peope can better understand vaccine distribution and coverage rates.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
 
-    🔎 **Feature selection:**
-        I included the four key vaccination stages (at least one dose, partially vaccinated, fully vaccinated, and third doses) as they represent the most meaningful vaccine coverage categories. I excluded columns like daily doses administered, which are more relevant for time-series visualizations rather than pie charts.
+🔎 **Feature selection:**
+
+I included the four key vaccination stages (at least one dose, partially vaccinated, fully vaccinated, and third doses) as they represent the most meaningful vaccine coverage categories. I excluded columns like daily doses administered, which are more relevant for time-series visualizations rather than pie charts.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
-    
-    💡 **Underwater labor:**
 
-        **Data cleaning:** Handling NaN values in the dataset.
-        **Data aggregation:** Selecting the maximum values to represent the latest vaccine coverage metrics.
-        **Visualization:** Designing and refining the color scheme, labels, and layout.
+💡 **Underwater labor:**
+
+**Data cleaning:** Handling NaN values in the dataset.
+**Data aggregation:** Selecting the maximum values to represent the latest vaccine coverage metrics.
+**Visualization:** Designing and refining the color scheme, labels, and layout.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
