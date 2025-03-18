@@ -74,6 +74,101 @@ I included the four key vaccination stages (at least one dose, partially vaccina
 
 **Visualization:** Designing and refining the color scheme, labels, and layout.
 
+
+📈 **Visualization 2: Line Chart (Excel)**
+![Visualization 2](images/visualization_2_pie_linechart.png)
+
+[excell files](datasets/vaccine_doses.xlsx)
+
+> What software did you use to create your data visualization?
+
+✅ **Software used:**
+
+For this visualization, I used Excel, a widely accessible spreadsheet and data visualization tool. 
+
+> Who is your intended audience?
+
+👥 **Intended audience:**
+
+The intended audience includes public health officials, policymakers, data analysts, and the general public.
+
+- Health officials can use this visualization to track vaccine coverage over time.
+- General public may find it helpful to understand how the vaccine rollout progressed.
+- Researchers and journalists can reference the visualization when reporting on vaccination trends.
+
+> What information or message are you trying to convey with your visualization?
+
+💡 **Information/message conveyed:**
+
+The line chart shows the cumulative number of individuals vaccinated over time in Ontario, Canada. It highlights two key metrics:
+
+- Individuals with at least one dose (green line)
+- Fully vaccinated individuals (dark green line)
+
+The chart demonstrates:
+- The rapid increase in vaccinations in early 2021, corresponding to the initial rollout.
+- The flattening trend later on, indicating that most eligible individuals had been vaccinated.
+
+> What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+
+🎨 **Design principles considered:**
+
+**Substantive principle:**
+The visualization uses real-world vaccination data to accurately represent the trend over time.
+
+**Perceptual principle:**
+The color differentiation between the two lines allows for easy distinction. Grid lines and axis labels make the chart more readable.
+
+**Aesthetic principle:**
+The lines are clearly labeled, and the date labels are tilted for better readability.
+The chart uses contrasting colors (light green vs. dark green) to differentiate the two vaccination groups.
+
+> How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+
+🔁 **Reproducibility:**
+
+Since the chart was created in Excel, it is partially reproducible.
+To ensure reproducibility, the Excel file with the source data is provided [here](datasets/vaccine_doses.xlsx) so others can recreate or modify the chart.
+
+> How did you ensure that your data visualization is accessible?
+
+🌍 **Accessibility:**
+To improve accessibility:
+
+The use of color-coded lines makes it easy to distinguish the vaccination stages.
+The axis labels and legend provide clear context.
+
+> Who are the individuals and communities who might be impacted by your visualization?
+
+👥 **Impacted individuals and communities:**
+
+-  **Public health experts** can use this visualization to monitor and communicate vaccination progress.
+- **General public** can better understand the scale of the vaccine campaign.
+-  **Journalists and researchers** may reference it to report on vaccination coverage.
+- **Policymakers** can use the data to assess vaccination efforts and plan for future health campaigns.
+
+> How did you choose which features of your chosen dataset to include or exclude from your visualization?
+
+🔎 **Feature selection:**
+
+I included the cumulative vaccination metrics (at least one dose and fully vaccinated), which effectively illustrate the overall vaccine coverage.
+I excluded other metrics, such as daily doses administered, as they may create noise in a long-term trend visualization.
+
+>  What ‘underwater labour’ contributed to your final data visualization product?
+
+💡 **Underwater labor:**
+
+**Data preparation:** Cleaning and structuring the dataset in Excel.
+
+**Chart creation:** Selecting the appropriate chart type, formatting the lines, and applying colors.
+
+**Labeling:** Adding clear axis labels and ensuring readability with date formatting.
+
+
+✅ **Final thoughts:**
+
+The line chart effectively communicates the progress of COVID-19 vaccinations in Ontario over time. It highlights the rapid rollout in early 2021 and the eventual plateau, offering valuable insights for public health officials and the general public.
+
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
