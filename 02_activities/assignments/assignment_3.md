@@ -22,7 +22,7 @@
 
     > What information or message are you trying to convey with your visualization? 
 
-💡 **Information/message conveyed:**  \n The pie chart visualizes the proportion of individuals at different vaccination stages:
+💡 **Information/message conveyed:**  The pie chart visualizes the proportion of individuals at different vaccination stages:
 
 - At least one dose
 - Partially vaccinated
@@ -36,7 +36,9 @@ The goal is to highlight the distribution of vaccine coverage and emphasize the 
 🎨 **Design principles considered:**
 
 **1. Substantive principle:** The chart uses actual vaccination data from Ontario to accurately reflect the distribution.
+
 **2. Perceptual principle:** I chose **distinct colors** for each category to make the chart easily interpretable. The use of percentages provides a clear view of the proportions.
+
 **3. Aesthetic principle:** The pie chart uses **clean, labeled segments** with an appropriate color scheme to ensure visual appeal and readability.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
@@ -67,7 +69,9 @@ I included the four key vaccination stages (at least one dose, partially vaccina
 💡 **Underwater labor:**
 
 **Data cleaning:** Handling NaN values in the dataset.
+
 **Data aggregation:** Selecting the maximum values to represent the latest vaccine coverage metrics.
+
 **Visualization:** Designing and refining the color scheme, labels, and layout.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
