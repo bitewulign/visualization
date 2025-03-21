@@ -9,27 +9,40 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
-
-
-
-
-
-
-
-      ```
-    - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
-
       
-      ```
+    **My Good Good data visualization example:** "Globalization Tempreture Trends Over the Lasr Centry" (Source: https://public.tableau.com/app/profile/benson.nderitu5640/viz/GlobalTemperatureTrendsOverTime/Dashboard1)
+
+    ![My good visualization sample](Dashboard-1.png)
+
+    **Why it is good:**
+        
+    This visualization effectively communicates the rise in global temperatures over the past century using a line chart. The x-axis represents time (years), while the y-axis represents temperature anomalies (deviation from the average). The chart is clean, with a clear title, labeled axes, and a legend explaining the data source. The color gradient (blue to red) intuitively represents cooler to warmer temperatures, making it easy to interpret. The visualization also includes a trendline, which highlights the overall upward trajectory of global temperatures. This aligns with principles of good data visualization, such as clarity, accuracy, and simplicity, as discussed in Tufte's The Visual Display of Quantitative Information. The chart avoids clutter and focuses on the key message: the steady increase in global temperatures.
+
+    **How it could be improved:**
+
+    While the visualization is strong, it could be enhanced by adding annotations for significant events (e.g., industrial milestones or policy changes) that may have influenced temperature trends. This would provide additional context and make the visualization more informative. Additionally, interactive elements, such as tooltips showing exact temperature values for specific years, could improve user engagement and understanding.
+
+    =========================================================================================================================================================================
+
+    **My bad data disualization example: The Books That Shaped My Year**  (Source: https://public.tableau.com/app/profile/andy.kriebel/viz/TheBooksThatShapedMy2024/Reading)
+![My bad visualization sample](Book-Reading.png)
+**Aesthetic Issues:**
+
+- [Chartjunk:](https://en.wikipedia.org/wiki/Chartjunk#:~:text=Chartjunk%20consists%20of%20all%20visual,a%20chart%20containing%20gratuitous%20chartjunk.) The visualization contains unnecessary decorative elements that do not contribute to data understanding, such as excessive use of colors and backgrounds. This aligns with the concept of "chartjunk," which refers to unnecessary visual clutter that distracts from the data. 
+
+**Substantive Issues:**
+
+- **Lack of Context:** The visualization fails to provide adequate context, such as explanations of metrics or data sources, making it difficult to interpret the significance of the information presented.
+- **Missing Insights:** If the visualization simply lists books without highlighting patterns (e.g., genres, reading frequency, or themes), it may not provide any meaningful insights.
+- **Irrelevant Data:** If the visualization includes metrics that are not relevant to the story (e.g., page counts without context), it can dilute the message.
+
+**Perceptual Issues:**
+- [Misleading Visual Elements:](https://en.wikipedia.org/wiki/Misleading_graph?utm_source=chatgpt.com) The use of 3D effects and disproportionate scaling can distort data perception, leading to misinterpretation. Such practices are known to create misleading graphs by exaggerating or minimizing apparent differences. 
+
+```
+In summary, the visualization's aesthetic clutter, lack of substantive context, and perceptual distortions hinder its effectiveness in conveying information clearly and accurately.
+```
+
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
